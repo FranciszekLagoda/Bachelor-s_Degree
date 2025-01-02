@@ -30,10 +30,11 @@ Keywords are important when searching for scientific papers in scientific databa
 
 
 ## 2. Find and store adequate scientific papers
-To store and organize literature i used Zotero.(I will update this when all the literature has been collected.)
+Sources are stored [here](/2_Prepare/sources/literature.bib) in .bib format.
 
 
 ## Collect statistic data and store it appropriately
+Here I described how I have accessed data and how used databases are structured. 
 ### GUS database
 #### The structure of the database
 Data is organized into separate categories. Number of this categories is depends on the level of data processing. There are highly processed datasets with many categories and those in simple data base format. For my use I've chosen high-value dataset.
@@ -42,9 +43,6 @@ Data is organized into separate categories. Number of this categories is depends
 1. I downloaded to 'data_raw' folder, data from polish statistical office "baza danych o wysokiej wartości GUS" about polish export and import of goods from 2012 to 2023 using available in google chrome extension for downloading many files from one site.
 2. Using [python script](/2_Prepare/scripts/data_to_database.py) I imported all data to [local data base](/2_Prepare/scripts/create_trade_raw_table.sql), created in PostgresQL and pre-cleaned them.
 3. Because ot the data structure it was necessary to create o dictionary so I downloaded it from GUS's website.
-#### Sources
-* Główny Urząd Statystyczny. (b.d.). Statystyki dotyczące międzynarodowego handlu towarami UE - eksport i import według partnera i produktu [Dataset]. Pobrano 3 grudzień 2024, z https://dbw.stat.gov.pl/katalog/hvd
-
 
 ### IMF database
 #### The structure of the database
