@@ -44,3 +44,38 @@ the top two most important leading indicators, showing up as statistically signi
 * **International reserves** and **real exchange rate overvaluation**, the top two indicators identified in the review, stood out as useful leading indicators of the more recent crisis.
 * Lower **past credit growth**, larger current **accounts/saving rates**, and lower external and short-term **debt** were associated with lower crisis incidence.
 
+
+## publication_key
+### About
+* **Tittle**: I (Could Have) Told You! Early warning indicators and crisis performance of the 12 “old” Euro-countries under the economic crisis 2008–09.
+* **Author**: Peter Nannestad
+* **Year**: 2020
+* **Link**: https://sci-hub.se/10.1016/j.ejpoleco.2020.101899
+* **Description**: Early warning indicators comparison between: economic, political and optimal currency areas. Presents a statistical analyze, which results in a "seriousness of crises" both predicted and observed.
+### Insight
+#### **Quotes**:
+* First, it (this study) focuses on post-predicting crisis performance, while mainstream literature on early warning indicators typically focuses on post-predicting crisis occurrence. In that respect, the present study is more ambitious than typical mainstream studies.
+##### Dependent variable
+* Economic crisis performance is measured using the 2008-09 averages of five economic indicators: 
+  * government consolidated debt (in % of GDP),
+  * general government financial deficit (in % of GDP), 
+  * unemployment (in %), 
+  * current account (in % of GDP), 
+  * and the long-term interest rate (yield on government bonds with a maturity of ten years)
+* The correlation between the countries’ economic performance scores with and without GDP-growth included are r ¼ 0.9984, so it does not really matter if GDP-growth is included among the indicators of crisis performance.
+* PCA of five indicators of economic crisis performance.
+##### Independent indicators
+* As economic indicators, I use the 95–98 averages of:
+  * general government debt, 
+  * general government budget surplus, 
+  * the long-term interest rate (yield on government bonds with a maturity of ten years),
+  * the current account (% of GDP),
+  * average of the unemployment rate,
+  * consumer price inflation.
+* Kaufman et al. (2010: 2–3) define governance as “the traditions and institutions by which authority is exercised”. These they break down into three dimensions:
+  * the process by which those in authority are selected and replaced with the twin indicators “voice and accountability”, “political stability and absence of violence”, 
+  * the capacity of government to formulate and implement policies, with the twin indicators “government effectiveness” and “regulatory quality
+  * the respect of citizens and state for institutions that govern interactions among them, with the twin indicators “rule of law” and “control of corruption”
+#### **Conclusions**:
+* It is possible to post-predict the economic crisis performance of the 'old' member countries in the Euro-zone.
+* Government indicators are more important than economic indicators and the optimal currency areas theory is the least important.
