@@ -44,5 +44,3 @@ the top two most important leading indicators, showing up as statistically signi
 * **International reserves** and **real exchange rate overvaluation**, the top two indicators identified in the review, stood out as useful leading indicators of the more recent crisis.
 * Lower **past credit growth**, larger current **accounts/saving rates**, and lower external and short-term **debt** were associated with lower crisis incidence.
 
-
-
