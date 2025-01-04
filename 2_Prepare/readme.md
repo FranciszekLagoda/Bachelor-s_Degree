@@ -10,27 +10,15 @@ The second step of analysis involves finding the necessary data, identifying how
 ## 1. Identify the essential keywords
 Keywords are important when searching for scientific papers in scientific databases. I have grouped keyword based on categories. 
 ### International Trade
-* International Trade
-* Trade
-* WTO
-* World Trade Organization
+* International Trade, Trade, WTO, World Trade Organization
 ### Polish Trade
-* Polish Trade
-* Polish export
-* Polish import
+* Polish Trade, Polish export, Polish import
 
 ### Economic crisis
-* Lagging Indicators
-* Economic Indicators
-* Financial Crisis
-* Causes of Crisis
-* GDP
-* Gross Domestic Product
-* Inflation
-
+* Lagging Indicators, Economic Indicators,, Financial Crisis, Causes of Crisis, GDP, Gross Domestic Product, Inflation
 
 ## 2. Find and store adequate scientific papers
-Sources are stored [here](/2_Prepare/sources/literature.bib) in .bib format.
+Sources are stored in .bib format [here](/2_Prepare/sources/literature.bib) and all sources are described in a .md file [here](/2_Prepare/sources/literature.md).
 
 
 ## Collect statistic data and store it appropriately
