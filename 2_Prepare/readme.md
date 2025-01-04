@@ -15,7 +15,7 @@ Keywords are important when searching for scientific papers in scientific databa
 * Polish Trade, Polish export, Polish import
 
 ### Economic crisis
-* Lagging Indicators, Economic Indicators,, Financial Crisis, Causes of Crisis, GDP, Gross Domestic Product, Inflation
+* Lagging Indicators, Economic Indicators, Financial Crisis, Causes of Crisis, GDP, Gross Domestic Product, Inflation, crisis, early warning, emerging markets, financial crisis, leading indicators
 
 ## 2. Find and store adequate scientific papers
 Sources are stored in .bib format [here](/2_Prepare/sources/literature.bib) and all sources are described in a .md file [here](/2_Prepare/sources/literature.md).

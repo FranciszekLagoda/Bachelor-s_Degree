@@ -15,9 +15,11 @@ How do Polish exports and imports respond to economic crises in selected third c
 
 ## Complementary Research Questions
 * Which countries have a sufficiently intense trade exchange with Poland to be suitable for effective analysis?
-* What does it mean to identify the emergence of an economic crisis in a given country?
+* What is an economic crisis in a given country?
+*   What are the different types of economic crises?
 * Which countries meet the criteria for trade volume and the occurrence of a crisis?
 * What was the overall trend in the differences between import and export responses to the crisis?
+  * Does crisis type impact on this trend?
 * Were there regularities in terms of changes in the structure of exports and imports?
 * Can information on changes in export to import ratios serve as a predictor of economic crisis?
 
