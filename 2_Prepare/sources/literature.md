@@ -79,3 +79,14 @@ the top two most important leading indicators, showing up as statistically signi
 #### **Conclusions**:
 * It is possible to post-predict the economic crisis performance of the 'old' member countries in the Euro-zone.
 * Government indicators are more important than economic indicators and the optimal currency areas theory is the least important.
+
+## palasca2014_indicators_crisis
+### About
+* **Tittle**: Leading and Lagging Indicators Of the Economic Crisis
+* **Author**: Palașcă, Silvia and Jaba, Elisabeta
+* **Year**: 2014
+* **Link**: https://www.revistadestatistica.ro/wp-content/uploads/2014/10/RRS_03_2014_A3.pdf
+* **Description**: Paper examines different economic indicators in order to classify them as leading or lagging indicators of economic crisis.
+### Insight
+#### **Quotes**:
+#### **Conclusions**:
