@@ -14,9 +14,9 @@ The goal of scientific research is to provide new, objective knowledge about the
 How do Polish exports and imports respond to economic crises in selected third countries, and what factors determine the differences in these responses?
 
 ## Complementary Research Questions
+* What is an economic crisis country?
+  * What are the different types of economic crises?
 * Which countries have a sufficiently intense trade exchange with Poland to be suitable for effective analysis?
-* What is an economic crisis in a given country?
-*   What are the different types of economic crises?
 * Which countries meet the criteria for trade volume and the occurrence of a crisis?
 * What was the overall trend in the differences between import and export responses to the crisis?
   * Does crisis type impact on this trend?
