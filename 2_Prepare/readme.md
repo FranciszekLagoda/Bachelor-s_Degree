@@ -17,7 +17,7 @@ Polish Trade, Polish export, Polish import
 Lagging Indicators, Economic Indicators, Financial Crisis, Causes of Crisis, GDP, Gross Domestic Product, Inflation, crisis, early warning, emerging markets, financial crisis, leading indicators, business cycle
 
 ## 2. Find and store adequate scientific papers
-Sources are stored in .bib format [here](/2_Prepare/sources/literature.bib) and all sources are described in a .md file [here](/2_Prepare/sources/literature.md).
+Sources are stored in .bib format [here](/2_Prepare/sources/literature.bib) and all sources are described in a .md file [here](/2_Prepare/sources). Each file contains literature about a different sub-theme of this project.
 
 ## 3. Collect statistic data and store it appropriately
 Prepared databases are described [here](/2_Prepare/sources/databases.md).  
