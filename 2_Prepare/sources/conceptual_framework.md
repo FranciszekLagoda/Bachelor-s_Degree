@@ -1,26 +1,27 @@
-# Publications description
+# Conceptual Framework: Defining Economic Crises and Trade Responses
 
-## publication_key
-### About
+```
+### publication_key
+#### About
 * **Tittle**:
 * **Author**:
 * **Year**: 
 * **Link**:
 * **Description**:
-### Insight
 #### **Quotes**:
 #### **Conclusions**:
+```
 
-# Sub-theme 1: What is an economic crisis in a country? How to recognize it?
+## Definitions of Economic Crises
+Definitions, criteria, indicators. identify strengths and weaknesses of different indicators.
 
-## frankel2012
-### About
+### frankel2012
+#### About
 * **Tittle**: Can leading indicators assess country vulnerability? Evidence from the 2008–09 global financial crisis
 * **Author**: Frankel, Jeffrey and Saravelos, George
 * **Year**: 2012
 * **Link**: https://sci-hub.se/10.2139/ssrn.1971286
 * **Description**: Author analyze early warning indicators and extract variables that are consistently useful in predicting impact of financial crisis basing on 2008-09 crisis. 
-### Insight
 #### **Quotes**
 ##### Definition of crisis 
 * The literature investigates different types of crisis, in different countries and over different time periods.
@@ -47,14 +48,13 @@ the top two most important leading indicators, showing up as statistically signi
 * Lower **past credit growth**, larger current **accounts/saving rates**, and lower external and short-term **debt** were associated with lower crisis incidence.
 
 
-## nannestad2020
-### About
+### nannestad2020
+#### About
 * **Tittle**: I (Could Have) Told You! Early warning indicators and crisis performance of the 12 “old” Euro-countries under the economic crisis 2008–09.
 * **Author**: Peter Nannestad
 * **Year**: 2020
 * **Link**: https://sci-hub.se/10.1016/j.ejpoleco.2020.101899
 * **Description**: Early warning indicators comparison between: economic, political and optimal currency areas. Presents a statistical analyze, which results in a "seriousness of crises" both predicted and observed.
-### Insight
 #### **Quotes**:
 * First, it (this study) focuses on post-predicting crisis performance, while mainstream literature on early warning indicators typically focuses on post-predicting crisis occurrence. In that respect, the present study is more ambitious than typical mainstream studies.
 ##### Dependent variable
@@ -82,16 +82,20 @@ the top two most important leading indicators, showing up as statistically signi
 * It is possible to post-predict the economic crisis performance of the 'old' member countries in the Euro-zone.
 * Government indicators are more important than economic indicators and the optimal currency areas theory is the least important.
 
-## palasca2014
-### About
+### palasca2014
+#### About
 * **Tittle**: Leading and Lagging Indicators Of the Economic Crisis
 * **Author**: Palașcă, Silvia and Jaba, Elisabeta
 * **Year**: 2014
 * **Link**: https://www.revistadestatistica.ro/wp-content/uploads/2014/10/RRS_03_2014_A3.pdf
 * **Description**: Paper examines gold and unemployment in order to classify them as leading or lagging indicators of economic crisis.
-### Insight
 #### **Quotes**:
 #### **Conclusions**:
 * Gold is a leading indicator of business cycle.
 
+# Models of Trade and Economic Shocks
+Review existing models that explain how international trade reacts to economic  crises.
+
+# Measuring Trade Responses
+Explore different ways to measure the response of exports and imports to economic crises.
 
