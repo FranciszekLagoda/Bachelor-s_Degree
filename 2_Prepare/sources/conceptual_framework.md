@@ -2,7 +2,6 @@
 
 ```
 ### publication_key
-#### About
 * **Tittle**:
 * **Author**:
 * **Year**: 
@@ -16,7 +15,6 @@
 Definitions, criteria, indicators. identify strengths and weaknesses of different indicators.
 
 ### frankel2012
-#### About
 * **Tittle**: Can leading indicators assess country vulnerability? Evidence from the 2008–09 global financial crisis
 * **Author**: Frankel, Jeffrey and Saravelos, George
 * **Year**: 2012
@@ -49,7 +47,6 @@ the top two most important leading indicators, showing up as statistically signi
 
 
 ### nannestad2020
-#### About
 * **Tittle**: I (Could Have) Told You! Early warning indicators and crisis performance of the 12 “old” Euro-countries under the economic crisis 2008–09.
 * **Author**: Peter Nannestad
 * **Year**: 2020
@@ -83,7 +80,6 @@ the top two most important leading indicators, showing up as statistically signi
 * Government indicators are more important than economic indicators and the optimal currency areas theory is the least important.
 
 ### palasca2014
-#### About
 * **Tittle**: Leading and Lagging Indicators Of the Economic Crisis
 * **Author**: Palașcă, Silvia and Jaba, Elisabeta
 * **Year**: 2014
@@ -92,6 +88,30 @@ the top two most important leading indicators, showing up as statistically signi
 #### **Quotes**:
 #### **Conclusions**:
 * Gold is a leading indicator of business cycle.
+
+### abiad2003
+* **Tittle**: Early Warning Systems: A Survey and a Regime-Switching Approach
+* **Author**: Abiad, Abdul
+* **Year**: 2003
+* **Link**: https://www.imf.org/external/pubs/ft/wp/2003/wp0332.pdf
+* **Description**: Author examine crisis indicators using Markov-switching model focusing on exchange rates. Author uses country-by-country approach.
+#### **Quotes**:
+* The most known procedure for making early warning models is taking changes in exchange rates, reserves, and/or interest rates, choosing wages on each and combining them into an index of speculative pressure. This  threshold procedure (for identifying approaching crises) provides a set of crisis dates, but rises even more problems. First [...(A threshold procedure)] is arbitrary, second futer data can affect identification of past crises (because of use of e.g standard deviation). Third arbitrary is a time period when a crisis is a new one.
+* Alternative approach using Markov-switching model can adres those issues. It based on assumption that in "tranquil states" indicators have different meaning then in "speculative attack" periods. In this approach it is crucial to identify when a given country is changing his state.
+#### **Conclusions**:
+* Exchange rates are an important indicator of a crisis.
+* Different indicators matter for different countries, so parameters consistency may contribute to poor performance.
+
+### peria2002
+* **Tittle**: A regime-switching approach to studying speculative attacks: focus on European Monetary System crises
+* **Author**: Peria, Martinez and Soledad, Maria
+* **Year**: 2002
+* **Link**: https://sci-hub.se/10.1007/s001810100102
+* **Description**: Regime-switching approach to study speculative attacks on EMS currencies. 
+#### **Quotes**:
+* The uses of Trade Balance in equation
+#### **Conclusions**:
+
 
 # Models of Trade and Economic Shocks
 Review existing models that explain how international trade reacts to economic  crises.
