@@ -13,7 +13,6 @@ Keywords are important when searching for scientific papers in scientific databa
 International Trade, Trade, WTO, World Trade Organization
 ### Polish Trade
 Polish Trade, Polish export, Polish import
-
 ### Economic crisis
 Lagging Indicators, Economic Indicators, Financial Crisis, Causes of Crisis, GDP, Gross Domestic Product, Inflation, crisis, early warning, emerging markets, financial crisis, leading indicators, business cycle
 
