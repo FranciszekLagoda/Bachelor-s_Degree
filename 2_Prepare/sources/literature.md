@@ -11,7 +11,9 @@
 #### **Quotes**:
 #### **Conclusions**:
 
-## frankel2012_indicators_crisis
+# Sub-theme 1: What is an economic crisis in a country? How to recognize it?
+
+## frankel2012
 ### About
 * **Tittle**: Can leading indicators assess country vulnerability? Evidence from the 2008–09 global financial crisis
 * **Author**: Frankel, Jeffrey and Saravelos, George
@@ -45,7 +47,7 @@ the top two most important leading indicators, showing up as statistically signi
 * Lower **past credit growth**, larger current **accounts/saving rates**, and lower external and short-term **debt** were associated with lower crisis incidence.
 
 
-## publication_key
+## nannestad2020
 ### About
 * **Tittle**: I (Could Have) Told You! Early warning indicators and crisis performance of the 12 “old” Euro-countries under the economic crisis 2008–09.
 * **Author**: Peter Nannestad
@@ -80,13 +82,16 @@ the top two most important leading indicators, showing up as statistically signi
 * It is possible to post-predict the economic crisis performance of the 'old' member countries in the Euro-zone.
 * Government indicators are more important than economic indicators and the optimal currency areas theory is the least important.
 
-## palasca2014_indicators_crisis
+## palasca2014
 ### About
 * **Tittle**: Leading and Lagging Indicators Of the Economic Crisis
 * **Author**: Palașcă, Silvia and Jaba, Elisabeta
 * **Year**: 2014
 * **Link**: https://www.revistadestatistica.ro/wp-content/uploads/2014/10/RRS_03_2014_A3.pdf
-* **Description**: Paper examines different economic indicators in order to classify them as leading or lagging indicators of economic crisis.
+* **Description**: Paper examines gold and unemployment in order to classify them as leading or lagging indicators of economic crisis.
 ### Insight
 #### **Quotes**:
 #### **Conclusions**:
+* Gold is a leading indicator of business cycle.
+
+
