@@ -112,6 +112,15 @@ the top two most important leading indicators, showing up as statistically signi
 * The uses of Trade Balance in equation
 #### **Conclusions**:
 
+### publication_key
+* **Tittle**:
+* **Author**:
+* **Year**: 
+* **Link**:
+* **Description**:
+#### **Quotes**:
+#### **Conclusions**:
+
 
 # Models of Trade and Economic Shocks
 Review existing models that explain how international trade reacts to economic  crises.
