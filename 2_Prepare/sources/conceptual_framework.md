@@ -110,16 +110,29 @@ the top two most important leading indicators, showing up as statistically signi
 * **Description**: Regime-switching approach to study speculative attacks on EMS currencies. 
 #### **Quotes**:
 * The uses of Trade Balance in equation
+* Regime-switching approach
 #### **Conclusions**:
 
-### publication_key
-* **Tittle**:
-* **Author**:
-* **Year**: 
-* **Link**:
-* **Description**:
+### gundel2005
+* **Tittle**: Towards a New Typology of Crises
+* **Author**: Gundel, Stephan
+* **Year**: 2005
+* **Link**: https://theisrm.org/documents/Gundel%20%282005%29%20Towards%20a%20New%20Topology%20of%20Crises.pdf
+* **Description**: Author review typologies of crises and creates a new typology based on predictability and influence possibilities.
 #### **Quotes**:
+* A crisis typology should allow for the **clear allocation** of all actual and forthcoming crises to only **one of mutually exclusive classes** and should furthermore **facilitate the handling** of crises.
+* The review of the typologies used today  
+*(human/natural(human1,human2 etc.) or global/local + long/short + natural/human ...)*   
+has proved that it is very difficult to allocate all types of possible crises to a manageable number of mutually exclusive classes with the analysis framework available at present. [...] The main problem seems to be the use of quite narrow classification criteria which are often expected to reduce the need for interpretation but make typologies static, impending time-invariant application when new events arise.
+* Some information be completely understood after the event took
+place and so the idea of a definable incubation
+period is no appropriate illustration of reality
+(Gephart, 1984).
+* A crisis is predictable, if place, time or in particular the manner of its occurrence are knowable to at least a third competent party and the probability of occurrence is not to be neglected.
+* A disaster or crisis can be influenced if responses to stem the tide or to reduce damages by antagonizing the causes of a crisis are known and possible to execute. [...] In other words, R (ck) should be well-known and practical application of them should be proved and tested.
+* A detailed discussion of the proposed countermeasures can however be found in Gundel (2004).
 #### **Conclusions**:
+![image](/images/crisis_typology_gundel.png)
 
 
 # Models of Trade and Economic Shocks

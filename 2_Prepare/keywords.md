@@ -1,7 +1,7 @@
 # Keywords
 ## Conceptual Framework: Defining Economic Crises and Trade Responses
 ### Definitions of Economic Crises: 
-"economic crisis," "financial crisis," "sovereign debt crisis," "recession," "depression," "economic shock," "crisis indicators," "GDP growth," "inflation," "unemployment," "currency depreciation," "credit default," "vulnerability index," "early warning system"
+"economic crisis," "financial crisis," "sovereign debt crisis," "recession," "depression," "economic shock," "crisis indicators," "GDP growth," "inflation," "unemployment," "currency depreciation," "credit default," "vulnerability index," "early warning system", "crises typology"
 ### Models of Trade and Economic Shocks: 
 "international trade," "trade shocks," "gravity model," "structural gravity model," "trade liberalization," "protectionism," "economic integration," "global value chains," "supply chain disruptions," "trade policy uncertainty," "shock propagation," "contagion effect," "general equilibrium models," "computable general equilibrium (CGE) models"
 ### Measuring Trade Responses: 
