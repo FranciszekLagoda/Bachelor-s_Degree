@@ -134,6 +134,28 @@ period is no appropriate illustration of reality
 #### **Conclusions**:
 ![image](/images/crisis_typology_gundel.png)
 
+### brecher1997
+* **Tittle**: A study of crisis
+* **Author**: Brecher, Michael and Wilkenfeld, Jonathan
+* **Year**: 1997
+* **Link**: https://doi.org/10.3998/mpub.14982
+* **Description**: Authors present definitions of crisis and...
+#### **Quotes**:
+##### **Definition of crisis**
+* Crisis and conflicts erupt from change in the environment. Crisis and conflicts generate change in state behavior. And crisis and conflicts often lead to change in international system.
+* (Hermann 1969) A Crisis is a situation that:
+  *  threatens high-priority goals of the decision-making unit,
+  *  restricts the amount of time available for response before the decision is transformed,
+  *  and surprises the members of the decision-making unit by its occurrence.
+Decision making process depends on number of this characteristics.
+* (This book) differences:
+  * The omission of "surprise",
+  * *"Short"* time to response into *"finite"*,
+  * The recognition that crisis may originate in the internal and external environment,
+  * *"Basic values"* rather then *"high-priority goals"*,
+  * The addition of *"higher-then-normal probability of involvement in military hostilities"* (war)
+* The distinction between crisis and protracted conflict. The focus of crisis is a single issue. Protracted conflict is a hostile interaction
+#### **Conclusions**:
 
 # Models of Trade and Economic Shocks
 Review existing models that explain how international trade reacts to economic  crises.
