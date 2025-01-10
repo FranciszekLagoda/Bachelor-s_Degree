@@ -23,5 +23,4 @@ How do Polish exports and imports respond to crises in selected third countries,
 
 ## Research Hypotheses
 * The response of Polish imports to crisis in a third country is less sensitive than the response of exports, leading to the development of a trade deficit during crises.
-* There is a significant difference in the commodity structure of Polish exports and imports in response to economic crises in third countries, which may lead to changes in dominant sectors of the economy.
 * Changes in the level of exports and imports can act as early warning signals for potential economic crises in Poland, allowing for earlier preventive measures to be taken.
